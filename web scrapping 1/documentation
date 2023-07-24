@@ -1,2 +1,6 @@
 Hi there, 
-This project is a fun project
+This project is a fun project made for practicing web scrapping. 
+This project is done by Tarun Sai Ghanta, studying MSBA@UMASS Amherst.
+The basic idea of the project is to find out weekly offered free games from famous websites like Steam and epic games and store that data in a CSV or pdf file.
+This project is completely written in Python and uses requests and the Beautiful Soup library.
+This is just the first phase of the project I thought of. Please look at web scrapping 2 for its extension.
